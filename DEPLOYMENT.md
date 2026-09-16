@@ -4,7 +4,8 @@
 - Live: https://wonly-render-gallery.pages.dev
 - Cloudflare Pages project: wonly-render-gallery
 - Custom domain registered: gallery.foreverdoodle.com
-- Pending: Aliyun DNS login, then add CNAME `gallery` → `wonly-render-gallery.pages.dev` (check existing records before adding).
+- Aliyun DNS configured: CNAME `gallery` → `wonly-render-gallery.pages.dev`, TTL 10 minutes.
+- Domain ownership verification passed; HTTPS certificate provisioning checked after DNS setup.
 - 30 render views, each with composite and transparent PNG.
 - No CAD or Blender sources published.
 
